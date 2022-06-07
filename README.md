@@ -1,6 +1,9 @@
-# Coin Recognition in Python using OPENCV Library
+# Face Recognition in Python using OPENCV Library
 
-Counting and Recognizing Coins using Image Segmentation or Watershed Algorithm zip files contains scan images of coins, and also training images for recognition. 
+A. Detect faces and save to your data set (different angles)
+B. Each save images will be named according to their given name
+C. Your program must recognize each face and display their name tag
+D. Record a short clip explaining how your program works and what algorithm did you used (at least 5-10mins)
 
 ###### Output:
 ![FP2_Virtus.jpg](https://github.com/reymundvirtus/Face_Recognition/blob/main/FP2_Virtus.jpg?raw=true)
